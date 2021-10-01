@@ -1,2 +1,2 @@
 # Yaic
-Yaic is an image compressor that uses quadtree approximation. 
+Yet another image compressor that uses quadtree approximation. 
