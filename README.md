@@ -1,2 +1,2 @@
 # Yaic
-Yet another image compressor. Uses quadtree approximation. 
+Yet another image compressor (with quadtree). 
